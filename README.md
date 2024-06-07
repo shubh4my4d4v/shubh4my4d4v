@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Yadav</h1>
+
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlueXZ4YjdiamZ2aGw4ZXBsdmhmemplanExbG9kMnprY2h0YzZiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/V9OsQgyaVeJ9Rxf0jH/giphy.webp">
 
 
@@ -24,4 +25,3 @@ I am Shubham Yadav,<br> As recent graduate with a Bachelor of Science in Informa
 ---
 [![](https://visitcount.itsvg.in/api?id=shubh4my4d4v&icon=1&color=7)](https://visitcount.itsvg.in)
 
-[![](https://github.com/shubh4my4d4v)] 
