@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Yadav</h1>
 
 
+---
 
 # 💫 About Me:
 I am Shubham Yadav,<br> As recent graduate with a Bachelor of Science in Information Technology from Mumbai University. I have a strong enthusiasm for utilizing technology to address practical challenges. I have extensive knowledge and experience in software development, data analysis, web development, and cybersecurity. I actively participate in open-source initiatives, improving the accessibility and inclusiveness of technology. During my leisure time, I derive pleasure from delving into novel technologies, experimenting with electrical equipment, and participating in tech meetings.<br>
