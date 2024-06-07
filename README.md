@@ -24,4 +24,4 @@ I am Shubham Yadav,<br> As recent graduate with a Bachelor of Science in Informa
 ---
 [![](https://visitcount.itsvg.in/api?id=shubh4my4d4v&icon=1&color=7)](https://visitcount.itsvg.in)
 
-[![](https://github.com/shubh4my4d4v)  
+[![](https://github.com/shubh4my4d4v)] 
