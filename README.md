@@ -25,4 +25,6 @@ I am Shubham Yadav,<br> As recent graduate with a Bachelor of Science in Informa
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+[![](https://visitcount.itsvg.in/api?id=shubh4my4d4v&icon=1&color=7)](https://visitcount.itsvg.in)
+
